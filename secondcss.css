@@ -1,0 +1,1007 @@
+.giveborderandshadow{
+    border-bottom: 10px;
+    box-shadow: 5px black;
+    margin: 0px;
+}
+li{
+    margin-right: 20px;
+    
+}
+a{
+    color: rgb(153, 146, 143);
+}
+a:hover{
+    color: rgb(59, 56, 55);
+}
+
+div .carousel-inner{
+
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    
+    width: 97%;
+    box-shadow: 7px black;
+    margin-top: 0px;
+}
+
+div #carouselExampleFade{
+   
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+img .d-block{
+    height: 500px;
+}
+
+a:hover > i{
+    text-decoration: none;
+    margin-left: 10px;
+}
+a:hover > span{
+    text-decoration: none;
+    margin-left: 10px;
+}
+div .carousel-caption{
+    background-color: rgba(20, 20, 20, 0.5);
+   
+    margin-left: 0;
+}
+.fontee{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font: 27px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+div .col-sma{
+    background-color: rgba(39, 123, 172, 0.9);
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: rgb(255, 249, 249);
+}
+div .col-smb{
+    background-color: rgba(185, 64, 64, 0.9);
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: rgb(255, 249, 249);
+}
+div .col-smc{
+    background-color: rgba(185, 81, 21, 0.97);
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: rgb(255, 249, 249);
+}
+div .col-smd{
+    background-color: rgba(38, 146, 56, 0.9);
+    margin: 20px;
+    padding: 15px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: rgb(255, 249, 249);
+}
+.anew{
+    background-color: rgba(218, 213, 213, 0.9);
+    margin: 20px;
+    padding: 15px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: rgb(56, 53, 53);
+    text-align: center;
+    min-width: 200px;
+}
+.anewa{
+    background-color: rgba(218, 213, 213, 0.9);
+    margin: 20px;
+    padding: 15px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: rgb(56, 53, 53);
+    text-align: center;
+    min-width: 200px;
+  
+}
+.anewb{
+    background-color: rgba(218, 213, 213, 0.9);
+    margin: 20px;
+    padding: 15px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: rgb(56, 53, 53);
+    text-align: center;
+    min-width: 200px;
+}
+.anewc{
+    background-color: rgba(218, 213, 213, 0.9);
+    margin: 20px;
+    padding: 15px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: rgb(56, 53, 53);
+    text-align: center;
+    min-width: 200px;
+}
+.anewd{
+    background-color: rgba(218, 213, 213, 0.9);
+    margin: 20px;
+    padding: 15px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: rgb(56, 53, 53);
+    text-align: center;
+    min-width: 200px;
+}
+.anewf{
+    background-color: rgba(218, 213, 213, 0.9);
+    margin: 20px;
+    padding: 15px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: rgb(56, 53, 53);
+    text-align: center;
+    min-width: 200px;
+}
+div:hover > h3{
+    margin-top: 30px;
+}
+
+.anew:hover{
+    background-color: rgba(39, 123, 172, 0.9);
+    margin-bottom: 20px;
+ 
+    box-shadow: 7px 7px 10px rgba(44, 24, 24, 0.34);
+    color: rgb(238, 231, 231);
+    text-align: center;
+    
+}
+.anewa:hover{
+
+    margin-bottom: 20px;
+    background-color: rgba(38, 146, 56, 0.9);
+    box-shadow: 7px 7px 10px rgba(44, 24, 24, 0.34);
+    color: rgb(238, 231, 231);
+    text-align: center;
+   
+    
+}
+.anewb:hover{
+    background-color: rgba(185, 81, 21, 0.97);
+    margin-bottom: 20px;
+ 
+    box-shadow: 7px 7px 10px rgba(44, 24, 24, 0.34);
+    color: rgb(238, 231, 231);
+    text-align: center;
+    
+}
+.anewc:hover{
+    background-color: rgba(185, 64, 64, 0.9);
+    margin-bottom: 20px;
+ 
+    box-shadow: 7px 7px 10px rgba(44, 24, 24, 0.34);
+    color: rgb(238, 231, 231);
+    text-align: center;
+    
+}
+.anewd:hover{
+    background-color: rgba(163, 34, 180, 0.9);
+    margin-bottom: 20px;
+ 
+    box-shadow: 7px 7px 10px rgba(44, 24, 24, 0.34);
+    color: rgb(238, 231, 231);
+    text-align: center;
+    
+}
+.anewf:hover{
+    background-color: rgba(26, 183, 223, 0.911);
+    margin-bottom: 20px;
+ 
+    box-shadow: 7px 7px 10px rgba(44, 24, 24, 0.34);
+    color: rgb(238, 231, 231);
+    text-align: center;
+    
+}
+.anewe{
+    background-color: rgba(218, 213, 213, 0.9);
+    margin: 20px;
+    padding: 15px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: rgb(56, 53, 53);
+    
+    
+}
+.divwrapper{
+    margin-bottom: 60px;
+    border-bottom: 10px black !important;;
+}
+.containere{
+    padding: 30px !important;
+    background-color: rgb(241, 240, 241);
+    border: 10px !important;
+    border-radius: 10px;
+    border-color: rgb(68, 66, 66) !important;
+}
+.containeres{
+    background-color: rgb(241, 240, 241);
+    border: 10px !important;
+    border-radius: 10px;
+    border-color: rgb(68, 66, 66) !important;
+}
+.forheadings{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font: 33px  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
+}
+.anewh{
+    padding: 30px;
+    background-color: rgba(218, 213, 213, 0.9);
+    border: 3px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    border-radius: 10px;
+    margin-bottom: 30px;
+    border-color: rgb(241, 240, 241);
+    
+    
+}
+.anewh:hover{
+    margin-bottom: 20px;
+    background-color: rgba(252, 249, 249, 0.9);
+    box-shadow: 7px 7px 10px rgba(44, 24, 24, 0.34);
+    color: rgb(36, 27, 27);
+  
+}
+.anewg{
+    background-color: #f0f2f3;
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: #000;
+    margin: 20px;
+}
+
+.anewg:hover{
+    background-color: #ffffff;
+    box-shadow: 0 10px 15px rgba(0,0,0,.45);
+    color: #000;
+}
+
+.beru{
+   
+    margin-right: 20px;
+}
+.review{
+    background-color: #f0f2f3;
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: #000;
+    margin: 20px;
+}
+.review:hover{
+    background-color: #ffffff;
+    box-shadow: 0 10px 15px rgba(0,0,0,.45);
+    color: #000;
+}
+.contentfontee{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    color: #222425;
+}
+.namefontee{
+   margin-bottom: 15px;
+   
+}
+.jobnamea{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:  rgba(38, 146, 56, 0.9);
+}
+.jobnameb{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+   color:  rgba(39, 123, 172, 0.9);
+}
+.jobnamec{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    color:  rgba(185, 81, 21, 0.97);
+}
+.jobnamed{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    color:  rgba(185, 64, 64, 0.9);
+}
+
+.jobnamee{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    color: rgba(163, 34, 180, 0.9);
+}
+
+.jobnamef{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    color:  rgba(26, 183, 223, 0.911);
+}
+
+.newdiv{
+    
+    display: inline-block;
+
+}
+.bottomcolumns{
+    min-width: 270px;
+}
+.bottomcolumnse{
+    min-width: 285px;
+}
+.contains{
+    background-color: #ffffff;
+    padding-top: 50px;
+    margin-top: 30px;
+    color: #000;
+
+}
+.trainingtop{
+    background-image: url(media/beuseful.jpg);
+    
+}
+.makeabsolute{
+    position: absolute;
+    width: 100%;
+    
+}
+.fonttrainingname{
+    display: inline-block;
+    font: 80px bolder;
+    margin-bottom: 30px;
+}
+.fonttrainingcaption{
+    font: 30px small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #8d8f91;
+}
+.reviewe{
+    background-color: #ffffff;
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: #000;
+  
+}
+.reviewe:hover{
+    background-color: #ffffff;
+    box-shadow: 0 10px 15px rgba(0,0,0,.45);
+    color: #000;
+}
+.reviewen{
+  
+    background-color: #ffffff;
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: #000;
+    padding-left: 10%;
+}
+.fontsidename{
+    font: 40px bolder;
+ 
+    max-width: 350px;
+    min-width: 200px;
+    padding: 10px;
+    border: 2px rgba(163, 34, 180, 0.9);
+    background-color: rgba(20, 20, 20, 0.5);
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: #000;
+    margin-right: 40px;
+}
+
+.smallfont{
+    font: 22px small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #3d3f3f;
+}
+.smallfonte{
+    font: 22px small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #3d3f3f;
+}
+.coursesfonte{
+    font: 22px large bolder;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.cons{
+  
+}
+.containeree{
+
+    background-color: rgb(241, 240, 241);
+    border: 10px !important;
+    border-radius: 10px;
+    border-color: rgb(68, 66, 66) !important;
+}
+div .beclass{
+    color:  rgba(19, 17, 17);
+    -webkit-animation-name: example; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction:  alternate;
+}
+@-webkit-keyframes example {
+    0%   { color:  rgb(238, 30, 48); font-size:60px; }
+    25%  {color:  rgb(212, 92, 12); font-size:80px;}
+    50%  {color: rgb(10, 155, 34); font-size:80px;}
+    100% {color:rgba(163, 34, 180); font-size:80px;}
+}
+
+/* Standard syntax */
+@keyframes example {
+    0%   { color:  rgb(228, 32, 32); font-size:60px; }
+    25%  {color:  rgb(202, 81, 10); font-size:80px;}
+    50%  {color: rgb(17, 136, 37); font-size:80px;}
+    100% {color:rgba(163, 34, 180); font-size:80px;}
+}
+
+
+div .useclass{
+    color: rgba(19, 17, 17);
+    -webkit-animation-name: exampleu; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
+    animation-name: exampleu;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction:  alternate;
+}
+@-webkit-keyframes exampleu {
+    0%   {color:rgb(79, 82, 80); font-size:60px;}
+    25%  {color:rgb(79, 82, 80); font-size:60px;}
+    50%  {color: rgb(79, 82, 80); font-size:80px;}
+    100% {color:  rgb(79, 82, 80); font-size:80px;}
+}
+
+/* Standard syntax */
+@keyframes exampleu {
+    0%   {color:rgb(79, 82, 80); font-size:60px;}
+    25%  {color:rgb(79, 82, 80); font-size:60px;}
+    50%  {color: rgb(79, 82, 80); font-size:80px;}
+    100% {color:  rgb(79, 82, 80); font-size:80px;}
+}
+
+div .fulclass{
+    color: rgba(19, 17, 17);
+    -webkit-animation-name: examplef; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
+    animation-name: examplef;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@-webkit-keyframes examplef {
+    0%   {color:rgba(163, 34, 180); font-size:60px;}
+    25%  {color: rgb(18, 128, 37); font-size:60px;}
+    50%  {color: rgb(226, 98, 24); font-size:60px;}
+    100% {color:  rgb(224, 28, 28); font-size:80px;}
+}
+
+/* Standard syntax */
+@keyframes examplef {
+    0%   {color:rgba(163, 34, 180); font-size:60px;}
+    25%  {color: rgb(11, 121, 30); font-size:60px;}
+    50%  {color: rgb(221, 101, 32); font-size:60px;}
+    100% {color:  rgb(204, 30, 30); font-size:80px;}
+}
+
+.fontsidename{
+    font: 40px bolder;
+ 
+    max-width: 350px;
+    padding: 10px;
+    border: 2px solid;
+    border-radius: 4px;
+    background-color: rgb(253, 251, 251);
+    box-shadow: 0 5px 10px rgba(0,0,0,.14);
+    color: #696865;
+    margin-right: 40px;
+    -webkit-animation-name: examplee; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
+    animation-name: examplee;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@-webkit-keyframes examplee {
+    0%   {border-color:rgba(26, 183, 223, 0.911); }
+    20%  {border-color:rgba(39, 123, 172, 0.9); }
+    40%  {border-color:rgba(163, 34, 180, 0.9);}
+    60% {border-color:rgba(38, 146, 56, 0.9); }
+    80% {border-color:rgba(185, 81, 21, 0.97);}
+    100% {border-color:rgba(185, 64, 64, 0.9); }
+
+}
+
+/* Standard syntax */
+@keyframes examplee {
+    0%   {border-color:rgba(26, 183, 223, 0.911); }
+    20%  {border-color:rgba(39, 123, 172, 0.9); }
+    40%  {border-color:rgba(163, 34, 180, 0.9);}
+    60% {border-color:rgba(38, 146, 56, 0.9); }
+    80% {border-color:rgba(185, 81, 21, 0.97);}
+    100% {border-color:rgba(185, 64, 64, 0.9); }
+}
+
+texte:focus{
+    
+    width: 90%;
+    padding: 10px 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    font-size: 25px;
+    border: 2px solid #45ae23;
+    border-radius: 5px;
+    color: wheat;
+    background-color: #424242;
+}
+
+passworde:focus{
+    
+    width: 90%;
+    padding: 10px 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    font-size: 25px;
+    border: 2px solid #45ae23;
+    border-radius: 5px;
+    color: wheat;
+    background-color: #424242;
+}
+
+emaile:focus{
+    
+    width: 90%;
+    padding: 10px 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    font-size: 25px;
+    border: 2px solid #45ae23;
+    border-radius: 5px;
+    color: wheat;
+    background-color: #424242;
+}
+
+buttone{
+    
+    width: 95%;
+    padding: 10px 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: #45ae23;
+    border-radius: 5px;
+    color: #fcf8c3;
+    background-color: #45ae23;
+}
+
+buttone:hover{
+    
+    width: 100%;
+    padding: 10px 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    font-size: 25px;
+    box-shadow:10px 10px 3px black;
+    color: wheat;
+    background-color: #3b7927;
+}
+
+
+.tooltipe .tooltiptext {
+visibility: hidden;
+ 
+    background-color: rgb(224, 223, 223);
+    color: rgba(163, 43, 13, 0.952);
+    text-align: center;
+    border-radius: 6px;
+    padding: 10px;
+ 
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+    
+    /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltipe .tooltiptext::after {
+    content: " ";
+    
+    bottom: 100%;  /* At the top of the tooltip */
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent black transparent;
+}
+
+.tooltipe:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes myfirst {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+
+/* Standard syntax */
+@keyframes myfirst {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+
+.forheadingse{
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+
+}
+
+.colse{
+width: 100%;
+height: 100%;
+ 
+color: rgba(163, 43, 13, 0.952);
+}
+
+.colsf{
+    width: 100%;
+    height: 100%;
+     
+    color: rgba(38, 146, 56, 0.9); font-size:60px;
+    }
+    .colsg{
+        width: 100%;
+        height: 100%;
+         
+        color: rgba(185, 81, 21, 0.97);;
+        }
+        .colsh{
+            width: 100%;
+            height: 100%;
+             
+            color: rgba(163, 34, 180, 0.9);
+            }
+            .colsi{
+                width: 100%;
+                height: 100%;
+                 min-width: 230px;
+                color:   rgba(81, 83, 83, 0.9); 
+                }
+
+                .colsj{
+                    width: 100%;
+                    height: 100%;
+                     min-width: 80px;
+                    color:   rgba(106, 107, 107, 0.9); 
+                    }
+    
+    .animback{
+        min-width: 250px;
+    }          
+    .animbacke{
+        min-width: 500px;
+    }  
+
+    .animbacken{
+        min-width: 300px;
+    }  
+.imtransform{
+
+    -webkit-animation-name: imanim; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
+    -webkit-animation-iteration-count: 3;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-duration: 4s;
+    animation-name: imanim;
+}
+
+
+
+@-webkit-keyframes imanim {
+    0%   {
+        -ms-transform: rotate(20deg); /* IE 9 */
+        -webkit-transform: rotate(20deg); /* Safari */
+        transform: rotate(20deg); /* Standard syntax */
+       
+    }
+    25%  {
+        -ms-transform: rotate(0deg); /* IE 9 */
+        -webkit-transform: rotate(0deg); /* Safari */
+        transform: rotate(0deg); /* Standard syntax */
+       
+    }
+    50%  {
+        -ms-transform: rotate(0deg); /* IE 9 */
+        -webkit-transform: rotate(0deg); /* Safari */
+        transform: rotate(0deg); /* Standard syntax */
+        
+    }
+    75%  {
+        -ms-transform: rotate(-20deg); /* IE 9 */
+        -webkit-transform: rotate(-20deg); /* Safari */
+        transform: rotate(-20deg); /* Standard syntax */
+        
+    }
+
+    100% { -ms-transform: rotate(-20deg); /* IE 9 */
+        -webkit-transform: rotate(-20deg); /* Safari */
+        transform: rotate(-20deg); /* Standard syntax */
+ 
+    }
+}
+
+/* Standard syntax */
+@keyframes imanim {
+    0%   {
+        -ms-transform: rotate(20deg); /* IE 9 */
+        -webkit-transform: rotate(20deg); /* Safari */
+        transform: rotate(20deg); /* Standard syntax */
+  
+    }
+    25%  {
+        -ms-transform: rotate(0deg); /* IE 9 */
+        -webkit-transform: rotate(0deg); /* Safari */
+        transform: rotate(0deg); /* Standard syntax */
+      
+    }
+    50%  {
+        -ms-transform: rotate(0deg); /* IE 9 */
+        -webkit-transform: rotate(0deg); /* Safari */
+        transform: rotate(0deg); /* Standard syntax */
+     
+    }
+    75%  {
+        -ms-transform: rotate(-20deg); /* IE 9 */
+        -webkit-transform: rotate(-20deg); /* Safari */
+        transform: rotate(-20deg); /* Standard syntax */
+       
+    }
+
+    100% { -ms-transform: rotate(-20deg); /* IE 9 */
+        -webkit-transform: rotate(-20deg); /* Safari */
+        transform: rotate(-20deg); /* Standard syntax */
+  
+    }
+
+}
+
+
+@media screen and (max-width: 1100px) {
+    .forheadings{
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font: 29px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .fontee{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font: 24px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    }
+}
+
+
+    @media screen and (max-width: 950px) {
+        div .carousel-inner{
+            
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-top: 20px;
+            
+            width: 97%;
+            box-shadow: 7px black;
+            margin-top: 0px;
+        }
+        
+        div #carouselExampleFade{
+          
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-top: 20px;
+        }
+        
+        img .d-block{
+            height: 200px;
+        }
+        
+        a:hover > i{
+            text-decoration: none;
+            margin-left: 10px;
+        }
+        
+        div .carousel-caption{
+            background-color: rgba(20, 20, 20, 0.5);
+         
+            margin-left: 0;
+            visibility: visible;
+        }
+        .fontee{
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font: 15px
+        }
+        div .col-sma{
+            background-color: rgba(39, 123, 172, 0.9);
+            margin: 10px;
+            padding: 5px;
+            box-shadow: 0 5px 10px rgba(0,0,0,.14);
+            color: rgb(255, 249, 249);
+        }
+        div .col-smb{
+            background-color: rgba(185, 64, 64, 0.9);
+            margin: 10px;
+            padding: 5px;
+            box-shadow: 0 5px 10px rgba(0,0,0,.14);
+            color: rgb(255, 249, 249);
+        }
+        div .col-smc{
+            background-color: rgba(185, 81, 21, 0.97);
+            margin: 10px;
+            padding: 5px;
+            box-shadow: 0 5px 10px rgba(0,0,0,.14);
+            color: rgb(255, 249, 249);
+        }
+        div .col-smd{
+            background-color: rgba(38, 146, 56, 0.9);
+            margin: 10px;
+            padding: 5px;
+            box-shadow: 0 5px 10px rgba(0,0,0,.14);
+            color: rgb(255, 249, 249);
+        }
+
+        .forheadings{
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font: 25px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        .fontee{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font: 20px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+    }
+
+    @media screen and (max-width: 750px) {
+        .forheadings{
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font: 20px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        .fontee{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font: 15px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+    }
+        @media screen and (max-width: 620px) {
+            .forheadings{
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                font: 17px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            }
+            .fontee{
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font: 13px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            }
+            @-webkit-keyframes example {
+                0%   { color:  rgb(238, 30, 48); font-size:40px; }
+                25%  {color:  rgb(212, 92, 12); font-size:60px;}
+                50%  {color: rgb(10, 155, 34); font-size:60px;}
+                100% {color:rgba(163, 34, 180); font-size:60px;}
+            }
+            
+            /* Standard syntax */
+            @keyframes example {
+                0%   { color:  rgb(228, 32, 32); font-size:40px; }
+                25%  {color:  rgb(202, 81, 10); font-size:60px;}
+                50%  {color: rgb(17, 136, 37); font-size:60px;}
+                100% {color:rgba(163, 34, 180); font-size:60px;}
+            }
+
+            @-webkit-keyframes exampleu {
+                0%   {color:rgb(79, 82, 80); font-size:40px;}
+                25%  {color:rgb(79, 82, 80); font-size:40px;}
+                50%  {color: rgb(79, 82, 80); font-size:60px;}
+                100% {color:  rgb(79, 82, 80); font-size:60px;}
+            }
+            
+            /* Standard syntax */
+            @keyframes exampleu {
+                0%   {color:rgb(79, 82, 80); font-size:40px;}
+                25%  {color:rgb(79, 82, 80); font-size:40px;}
+                50%  {color: rgb(79, 82, 80); font-size:60px;}
+                100% {color:  rgb(79, 82, 80); font-size:60px;}
+            }
+
+            @-webkit-keyframes examplef {
+                0%   {color:rgba(163, 34, 180); font-size:40px;}
+                25%  {color: rgb(18, 128, 37); font-size:40px;}
+                50%  {color: rgb(226, 98, 24); font-size:40px;}
+                100% {color:  rgb(224, 28, 28); font-size:60px;}
+            }
+            
+            /* Standard syntax */
+            @keyframes examplef {
+                0%   {color:rgba(163, 34, 180); font-size:40px;}
+                25%  {color: rgb(11, 121, 30); font-size:40px;}
+                50%  {color: rgb(221, 101, 32); font-size:40px;}
+                100% {color:  rgb(204, 30, 30); font-size:60px;}
+            }
+            
+    }
+    @media screen and (max-width: 500px) {
+        .forheadings{
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font: 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        .fontee{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font: 10px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+        .colsj{
+            width: 100%;
+            height: 100%;
+             min-width: 70px;
+            color:   rgba(106, 107, 107, 0.9); 
+            }
+
+            .animbacke{
+                min-width: 250px;
+            } 
+}
+@media screen and (max-width: 400px) {
+
+    @-webkit-keyframes example {
+        0%   { color:  rgb(238, 30, 48); font-size:30px; }
+        25%  {color:  rgb(212, 92, 12); font-size:50px;}
+        50%  {color: rgb(10, 155, 34); font-size:50px;}
+        100% {color:rgba(163, 34, 180); font-size:50px;}
+    }
+    
+    /* Standard syntax */
+    @keyframes example {
+        0%   { color:  rgb(228, 32, 32); font-size:30px; }
+        25%  {color:  rgb(202, 81, 10); font-size:50px;}
+        50%  {color: rgb(17, 136, 37); font-size:50px;}
+        100% {color:rgba(163, 34, 180); font-size:50px;}
+    }
+
+    @-webkit-keyframes exampleu {
+        0%   {color:rgb(79, 82, 80); font-size:30px;}
+        25%  {color:rgb(79, 82, 80); font-size:30px;}
+        50%  {color: rgb(79, 82, 80); font-size:50px;}
+        100% {color:  rgb(79, 82, 80); font-size:50px;}
+    }
+    
+    /* Standard syntax */
+    @keyframes exampleu {
+        0%   {color:rgb(79, 82, 80); font-size:30px;}
+        25%  {color:rgb(79, 82, 80); font-size:30px;}
+        50%  {color: rgb(79, 82, 80); font-size:50px;}
+        100% {color:  rgb(79, 82, 80); font-size:50px;}
+    }
+
+    @-webkit-keyframes examplef {
+        0%   {color:rgba(163, 34, 180); font-size:30px;}
+        25%  {color: rgb(18, 128, 37); font-size:30px;}
+        50%  {color: rgb(226, 98, 24); font-size:30px;}
+        100% {color:  rgb(224, 28, 28); font-size:50px;}
+    }
+    
+    /* Standard syntax */
+    @keyframes examplef {
+        0%   {color:rgba(163, 34, 180); font-size:30px;}
+        25%  {color: rgb(11, 121, 30); font-size:30px;}
+        50%  {color: rgb(221, 101, 32); font-size:30px;}
+        100% {color:  rgb(204, 30, 30); font-size:50px;}
+    }
+    .forheadings{
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font: 10px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .fontee{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font: 8px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+}
